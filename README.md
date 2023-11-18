@@ -8,14 +8,14 @@ Anaconda - Python 3.7
 ### Step 1: 
 Define function named circulate
 ### Step 2: 
+Take a list as input from the user and assign it to the variable l.
 ### Step 3: 
-Get the value from the user for the number of rotation
+Take a integer as input from the user and assign it to the variable n.
 ### Step 4: 
 Using the slicing concept rotate the list
-
 ### Step 5: 
+Print the updated list l with the message " After circulating the  values are"
 
-### Step 6: 
 ## Program:
 ```
 #Program to circulate N values.
@@ -33,3 +33,4 @@ def circulate():
 #![Alt text](<Screenshot 2023-11-18 094536.png>)# Output:
 
 ## Result:
+Thus circulating variables are sucessfully executed.
